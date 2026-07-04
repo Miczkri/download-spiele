@@ -1,7 +1,7 @@
 ---
 title: Felix Braun
 meta_title: ""
-image: /images/authors/antonio-lira.webp
+image: /images/authors/felix-braun.webp
 description: página del autor
 social:
   facebook: https://www.facebook.com/
