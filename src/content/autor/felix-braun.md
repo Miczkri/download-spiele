@@ -2,7 +2,7 @@
 title: Felix Braun
 meta_title: ""
 image: /images/authors/felix-braun.webp
-description: página del autor
+description: Autorenseite
 social:
   facebook: https://www.facebook.com/
   linkedin: https://www.linkedin.com/
