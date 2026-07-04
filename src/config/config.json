@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "download-spiele.com | Spiele kostenlos herunterladen",
+    "base_url": "https://download-spiele.com",
+    "base_path": "/",
+    "trailing_slash": true,
+    "favicon": "/images/favicon.ico"
+  },
+
+  "settings": {
+    "pagination": 9
+  },
+
+  "metadata": {
+    "meta_description": "download-spiele.com ist die beste Website, um kostenlose PC-Spiele herunterzuladen. Alle deine Lieblingsspiele an einem Ort!"
+  },
+
+  "google_tag_manager": {
+    "enable": true,
+    "gtm_id": "GTM-PX74XKS7"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2026 download-spiele.com"
+  },
+
+  "contactinfo": {
+    "address": "Im Technologiepark 25 <br/> Frankfurt",
+    "email": "kontakt@download-spiele.com",
+    "phone": "+49 0335 56250"
+  }
+}

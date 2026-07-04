@@ -1,0 +1,17 @@
+/category/* /categorias/:splat  301
+/accion* /categorias/accion  301
+/rpg* /categorias/rpg 301
+/deportes* /categorias/deportes 301
+/estrategia* /categorias/estrategia 301
+/arcade* /categorias/arcade 301
+/terror* /categorias/terror 301
+/resenas* /categorias/resenas 301
+/fps* /categorias/fps 301
+/aventura* /categorias/aventura 301
+/carreras* /categorias/carreras 301
+/hack-n-slash* /categorias/hack-n-slash 301
+/roguelike* /categorias/roguelike 301
+/simulacion* /categorias/simulacion 301
+/noticias* /categorias/noticias 301
+/juegos-de-musica* /categorias/juegos-de-musica 301
+/juegos-moviles* /categorias/juegos-moviles 301
