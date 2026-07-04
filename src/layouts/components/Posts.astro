@@ -77,7 +77,7 @@ const { className, posts, fluid } = Astro.props;
               {post.data.categories.map((category, i: number) => (
                 <li class="inline-block">
                   <a
-                    href={`/kategorie/${slugify(category)}`}
+                    href={`/kategorien/${slugify(category)}`}
                     class="mr-2 hover:text-primary font-medium"
                   >
                     {humanize(category)}

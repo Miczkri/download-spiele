@@ -1,8 +1,8 @@
 {
   "main": [
     {
-      "name": "Kategorie",
-      "url": "/kategorie"
+      "name": "Kategorien",
+      "url": "/kategorien"
     },
     {
       "name": "Tags",
