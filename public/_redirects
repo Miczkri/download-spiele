@@ -11,3 +11,4 @@
 /horror-spiele* /kategorien/horror-spiele 301
 /rezensionen* /kategorien/rezensionen 301
 /geschicklichkeitsspiele* /kategorien/geschicklichkeitsspiele 301
+/*feed/ /:splat 301
