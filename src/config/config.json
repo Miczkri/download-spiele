@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "download-spiele.com | Spiele kostenlos herunterladen",
+    "title": "download-spiele.com",
     "base_url": "https://download-spiele.com",
     "base_path": "/",
     "trailing_slash": true,
