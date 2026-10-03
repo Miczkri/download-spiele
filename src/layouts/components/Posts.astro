@@ -221,7 +221,7 @@ const { className, posts, fluid } = Astro.props;
 
   <div class="text-center mt-4">
     <button id="seo-toggle-btn" class="btn btn-outline-primary text-sm px-6 py-2">
-      Lire la suite
+      Weiterlesen
     </button>
   </div>
 
@@ -239,13 +239,13 @@ const { className, posts, fluid } = Astro.props;
         content.classList.remove('max-h-full');
         content.classList.add('max-h-[300px]');
         overlay.classList.remove('hidden');
-        btn.textContent = 'Lire la suite';
+        btn.textContent = 'Weiterlesen';
       } else {
         // Rozwijanie
         content.classList.remove('max-h-[300px]');
         content.classList.add('max-h-full');
         overlay.classList.add('hidden');
-        btn.textContent = 'Réduire';
+        btn.textContent = 'Einklappen';
       }
     });
   }
