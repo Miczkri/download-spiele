@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "download-spiele.com",
+    "title": "Download-Spiele.com - Spiele kostenlos herunterladen",
     "base_url": "https://download-spiele.com",
     "base_path": "/",
     "trailing_slash": true,
-    "favicon": "/images/favicon.ico"
+    "favicon": "/images/favicon.ico",
+    "logo_text": "Download-Spiele"
   },
 
   "settings": {
@@ -12,7 +13,7 @@
   },
 
   "metadata": {
-    "meta_description": "download-spiele.com ist die beste Website, um kostenlose PC-Spiele herunterzuladen. Alle deine Lieblingsspiele an einem Ort!"
+    "meta_description": "Download-Spiele.com ist die beste Website, um kostenlose PC-Spiele herunterzuladen. Alle deine Lieblingsspiele an einem Ort!"
   },
 
   "google_tag_manager": {
